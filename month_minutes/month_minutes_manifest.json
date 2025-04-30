@@ -1,0 +1,10 @@
+{
+  "domain": "month_minutes",
+  "name": "Month Minutes",
+  "documentation": "https://github.com/denkyem/month_minutes",
+  "dependencies": [],
+  "codeowners": ["@denkyem"],
+  "requirements": [],
+  "version": "0.1.0",
+  "iot_class": "calculated"
+}
